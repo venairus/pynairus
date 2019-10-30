@@ -4,6 +4,10 @@
 
 This application was made for training my daugther to do mathematical operations.
 
+## PREREQUISITES
+
+This application needs Python 3.6 and upper for working.
+
 ## INSTALL
 
 To install the application, copy the `pynairus` package in your `Python` lib folder.
@@ -76,7 +80,7 @@ The other args are optionals:
 
 #### Euclidian divisions
 
-The expected result has to be formatted like: `{quotian}r[rest}`.  
+The expected result has to be formatted like: `{quotian}r{rest}`.  
 The rest is not required if the result has no one.
 
 - **Example 1 :** 12 ÷ 6 = 2
