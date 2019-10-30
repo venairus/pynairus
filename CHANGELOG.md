@@ -1,5 +1,10 @@
 # PYMATH CHANGELOG
 
+## 3.1.1 (2019-10-30)
+
+- Fix README
+- Add type annotations
+
 ## 3.1.0 (2019-01-13)
 
 - Add single divisor strategy
